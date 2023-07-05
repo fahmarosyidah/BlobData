@@ -39,7 +39,7 @@ namespace BlobData
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(435, 110);
+            this.textBox1.Location = new System.Drawing.Point(440, 110);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(199, 22);
             this.textBox1.TabIndex = 0;
